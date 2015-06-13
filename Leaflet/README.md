@@ -6,8 +6,8 @@ An Introduction to web maps using Leaflet. A tutorial written Andy Woodruff and 
 
 - Basic HTML starter file, Rodent and Neighborhood Geosjon files, and Marker Cluster js and CSS files for the above Boston Rat Map tutorial can be found in the BOSTON folder above.
 - Basic Philly start file and Bike and ACS geojson files are located in the Philly Folder.
-- US Folder contains working example of Inetractive Choropleth Map from Leaflet Tutorial page: 
+- US Folder contains working example of Inetractive Choropleth Map from Leaflet Tutorial page - <br>
+<a href="http://leafletjs.com/examples/choropleth.html"></a><br>
 ![alt text][logo]
 
 [logo]: http://leafletjs.com/docs/images/choropleth.png "This is a MAP!"
-<a href="http://leafletjs.com/examples/choropleth.html"></a>
