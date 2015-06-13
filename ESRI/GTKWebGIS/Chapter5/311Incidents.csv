@@ -1,0 +1,7 @@
+Incident_Type,Incident_Desc,Incident_Address,Long,Lat,Report_Date,Reported_By,User_Contact,Incident_Status
+Pothole,test,test,-118,34,10/21/2013,Peter,909-1234567,Open
+Street Sign,test,test,-118,34,10/22/2013,Peter,909-1234568,Open
+Street Light,test,test,-118,34,10/23/2013,Peter,909-1234569,Open
+Manhole Cover,test,test,-118,34,10/24/2013,Peter,909-1234570,Open
+Dead Animal,test,test,-118,34,10/25/2013,Peter,909-1234571,Open
+Graffiti,test,test,-118,34,10/26/2013,Peter,909-1234572,Open

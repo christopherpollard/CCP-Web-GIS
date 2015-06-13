@@ -1,0 +1,50 @@
+Rank_2012,City,State,Census_2010,Estimate_2012,Growth_Rate,Pop_Density_2010,Wikipedia_URL,Picture_URL
+1,New York,New York,8175133,8336697,0.0198,27012,http://en.wikipedia.org/wiki/New_York_City,http://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Seal_of_New_York_City.svg/200px-Seal_of_New_York_City.svg.png
+2,Los Angeles,California,3792621,3857799,,8092,"http://en.wikipedia.org/wiki/Los_Angeles,_California",http://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Seal_of_Los_Angeles%2C_California.svg/200px-Seal_of_Los_Angeles%2C_California.svg.png
+3,Chicago,Illinois,2695598,2714856,0.0071,11842,"http://en.wikipedia.org/wiki/Chicago,_Illinois",http://upload.wikimedia.org/wikipedia/commons/e/ec/Chicago_city_seal.png
+4,Houston,Texas,2100263,2160821,0.0288,3501,"http://en.wikipedia.org/wiki/Houston,_Texas",http://upload.wikimedia.org/wikipedia/en/f/f4/Seal_of_Houston%2C_Texas.png
+5,Philadelphia,Pennsylvania,1526006,1547607,0.0142,11379,"http://en.wikipedia.org/wiki/Philadelphia,_Pennsylvania",http://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Seal_of_Philadelphia%2C_Pennsylvania.svg/200px-Seal_of_Philadelphia%2C_Pennsylvania.svg.png
+6,Phoenix,Arizona,1445632,1488750,0.0298,2798,"http://en.wikipedia.org/wiki/Phoenix,_Arizona",http://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Phoenix-logo.svg/200px-Phoenix-logo.svg.png
+7,San Antonio,Texas,1327407,1382951,0.0418,2880,"http://en.wikipedia.org/wiki/San_Antonio,_Texas",http://upload.wikimedia.org/wikipedia/en/f/f7/Sanantonioseal.jpeg
+8,San Diego,California,1307402,1338348,0.0237,4020,"http://en.wikipedia.org/wiki/San_Diego,_California",http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Seal_Of_San_Diego%2C_California.svg/200px-Seal_Of_San_Diego%2C_California.svg.png
+9,Dallas,Texas,1197816,1241162,0.0362,3518,"http://en.wikipedia.org/wiki/Dallas,_Texas",http://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Seal_of_Dallas.svg/200px-Seal_of_Dallas.svg.png
+10,San Jose,California,945942,982765,0.0389,5359,"http://en.wikipedia.org/wiki/San_Jose,_California",http://upload.wikimedia.org/wikipedia/commons/2/25/Seal_of_San_Jose%2C_California.png
+11,Austin,Texas,790390,842592,0.066,2653,"http://en.wikipedia.org/wiki/Austin,_Texas",http://upload.wikimedia.org/wikipedia/en/7/73/Seal_of_Austin%2C_TX.png
+12,Jacksonville,Florida,821784,836507,0.0179,1100,"http://en.wikipedia.org/wiki/Jacksonville,_Florida",http://upload.wikimedia.org/wikipedia/commons/9/90/Seal_of_Jacksonville%2C_Florida.png
+13,Indianapolis,Indiana,820445,834852,0.0176,2270,"http://en.wikipedia.org/wiki/Indianapolis,_Indiana",http://upload.wikimedia.org/wikipedia/en/8/89/Indianapolis_Seal.png
+14,San Francisco,California,805235,825863,0.0256,17179,"http://en.wikipedia.org/wiki/San_Francisco,_California",http://upload.wikimedia.org/wikipedia/en/1/16/Sfseal.png
+15,Columbus,Ohio,787033,809798,0.0289,3624,"http://en.wikipedia.org/wiki/Columbus,_Ohio",http://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Seal_of_Columbus_Ohio.svg/200px-Seal_of_Columbus_Ohio.svg.png
+16,Fort Worth,Texas,741206,777992,0.0496,2181,"http://en.wikipedia.org/wiki/Fort_Worth,_Texas",http://upload.wikimedia.org/wikipedia/en/2/2c/Fort_Worth_seal.jpg
+17,Charlotte,North Carolina,731424,775202,0.0599,2457,"http://en.wikipedia.org/wiki/Charlotte,_North_Carolina",http://upload.wikimedia.org/wikipedia/en/6/68/Charlotteflag.png
+18,Detroit,Michigan,713777,701475,-0.0172,5144,"http://en.wikipedia.org/wiki/Detroit,_Michigan",http://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Seal_of_Detroit%2C_Michigan.svg/200px-Seal_of_Detroit%2C_Michigan.svg.png
+19,El Paso,Texas,649121,672538,0.0361,2543,"http://en.wikipedia.org/wiki/El_Paso,_Texas",http://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Seal_of_El_Paso%2C_Texas.svg/200px-Seal_of_El_Paso%2C_Texas.svg.png
+20,Memphis,Tennessee,646889,655155,0.0128,2053,"http://en.wikipedia.org/wiki/Memphis,_Tennessee",http://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Memphis_TE_Seal-.svg/200px-Memphis_TE_Seal-.svg.png
+21,Boston,Massachusetts,617594,636479,0.0306,12793,"http://en.wikipedia.org/wiki/Boston,_Massachusetts",http://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Seal_of_Boston.svg/200px-Seal_of_Boston.svg.png
+22,Seattle,Washington,608660,634535,0.0425,7251,"http://en.wikipedia.org/wiki/Seattle,_Washington",http://upload.wikimedia.org/wikipedia/en/d/d9/Seattle_seal.png
+23,Denver,Colorado,600158,634265,0.0568,3923,"http://en.wikipedia.org/wiki/Denver,_Colorado",http://upload.wikimedia.org/wikipedia/commons/d/db/DenverCOseal.gif
+24,Washington,District of Columbia,601723,632323,0.0509,9856,"http://en.wikipedia.org/wiki/Washington,_District_of_Columbia",http://upload.wikimedia.org/wikipedia/commons/4/42/Seal-DC.png
+25,Nashville,Tennessee,601222,624496,0.0387,1265,"http://en.wikipedia.org/wiki/Nashville,_Tennessee",http://upload.wikimedia.org/wikipedia/en/b/ba/Nashvilleseal.png
+26,Baltimore,Maryland,620961,621342,0.0006,7672,"http://en.wikipedia.org/wiki/Baltimore,_Maryland",http://upload.wikimedia.org/wikipedia/commons/1/16/Seal_of_Baltimore%2C_Maryland.png
+27,Louisville,Kentucky,597337,605110,0.013,1837,"http://en.wikipedia.org/wiki/Louisville,_Kentucky",http://upload.wikimedia.org/wikipedia/en/d/db/200px-Louisville_Kentucky_seal.png
+28,Portland,Oregon,583776,603106,0.0331,4375,"http://en.wikipedia.org/wiki/Portland,_Oregon",http://upload.wikimedia.org/wikipedia/commons/8/8f/Seal_of_Portland_OR.png
+29,Oklahoma City,Oklahoma,579999,599199,0.0331,956,"http://en.wikipedia.org/wiki/Oklahoma_City,_Oklahoma",http://upload.wikimedia.org/wikipedia/en/f/fd/OKC_Seal.png
+30,Milwaukee,Wisconsin,594833,598916,0.0069,6188,"http://en.wikipedia.org/wiki/Milwaukee,_Wisconsin",http://upload.wikimedia.org/wikipedia/en/f/fd/Milseal.png
+31,Las Vegas,Nevada,583756,596424,0.0217,4298,http://en.wikipedia.org/wiki/Las_Vegas,http://upload.wikimedia.org/wikipedia/en/d/de/Las_Vegas_seal.jpg
+32,Albuquerque,New Mexico,545852,555417,0.0175,2908,"http://en.wikipedia.org/wiki/Albuquerque,_New_Mexico",http://upload.wikimedia.org/wikipedia/en/3/3b/Albuquerque_New_Mexico_logo.png
+33,Tucson,Arizona,520116,524295,0.008,2294,"http://en.wikipedia.org/wiki/Tucson,_Arizona",http://upload.wikimedia.org/wikipedia/commons/thumb/8/89/TucsonDerivative.png/132px-TucsonDerivative.png
+34,Fresno,California,494665,505882,0.0227,4418,"http://en.wikipedia.org/wiki/Fresno,_California",http://upload.wikimedia.org/wikipedia/en/7/74/Fresnoseal.png
+35,Sacramento,California,466488,475516,0.0194,4764,"http://en.wikipedia.org/wiki/Sacramento,_California","http://en.wikipedia.org/wiki/File:Flag_of_Sacramento,_California.svg"
+36,Long Beach,California,462257,467892,0.0122,9191,"http://en.wikipedia.org/wiki/Long_Beach,_California",http://upload.wikimedia.org/wikipedia/en/1/1e/LongBeachLogo.jpg
+37,Kansas City,Missouri,459787,464310,0.0098,1460,"http://en.wikipedia.org/wiki/Kansas_City,_Missouri",http://upload.wikimedia.org/wikipedia/en/4/4d/Kcmoseal.gif
+38,Mesa,Arizona,439041,452084,0.0297,3218,"http://en.wikipedia.org/wiki/Mesa,_Arizona",http://upload.wikimedia.org/wikipedia/commons/b/b5/Mesaazlogo.jpg
+39,Virginia Beach,Virginia,437994,447021,0.0206,1759,"http://en.wikipedia.org/wiki/Virginia_Beach,_Virginia",http://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Seal_of_Virginia_Beach%2C_Virginia.png/240px-Seal_of_Virginia_Beach%2C_Virginia.png
+40,Atlanta,Georgia,420003,443775,0.0566,3154,"http://en.wikipedia.org/wiki/Atlanta,_Georgia",http://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Seal_of_Atlanta.png/240px-Seal_of_Atlanta.png
+41,Colorado Springs,Colorado,416427,431834,0.037,2141,"http://en.wikipedia.org/wiki/Colorado_Springs,_Colorado",http://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Colorado_Springs%2C_Colorado.svg/200px-Flag_of_Colorado_Springs%2C_Colorado.svg.png
+42,Raleigh,North Carolina,403892,423179,0.0478,2826,"http://en.wikipedia.org/wiki/Raleigh,_North_Carolina",http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/City_of_Raleigh_Seal.svg/200px-City_of_Raleigh_Seal.svg.png
+43,Omaha,Nebraska,408958,421570,0.0308,3218,"http://en.wikipedia.org/wiki/Omaha,_Nebraska",http://upload.wikimedia.org/wikipedia/en/c/c6/City_of_Omaha_NE_Seal.jpg
+44,Miami,Florida,399457,413892,0.0361,11136,"http://en.wikipedia.org/wiki/Miami,_Florida",http://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Seal_of_Miami%2C_Florida.svg/200px-Seal_of_Miami%2C_Florida.svg.png
+45,Oakland,California,390724,400740,0.0256,7004,"http://en.wikipedia.org/wiki/Oakland,_California",http://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Flag_of_Oakland%2C_California.svg/200px-Flag_of_Oakland%2C_California.svg.png
+46,Tulsa,Oklahoma,391906,393987,0.0053,1992,"http://en.wikipedia.org/wiki/Tulsa,_Oklahoma",http://upload.wikimedia.org/wikipedia/en/thumb/1/16/TulsaOklahomaSeal.svg/200px-TulsaOklahomaSeal.svg.png
+47,Minneapolis,Minnesota,382578,392880,0.0269,7088,"http://en.wikipedia.org/wiki/Minneapolis,_Minnesota",http://upload.wikimedia.org/wikipedia/commons/8/86/Minneapolis_seal.gif
+48,Cleveland,Ohio,396815,390928,-0.0148,5107,"http://en.wikipedia.org/wiki/Cleveland,_Ohio",http://upload.wikimedia.org/wikipedia/en/c/cd/Cleveland_seal-T.png
+49,Wichita,Kansas,382368,385577,0.0084,2400,"http://en.wikipedia.org/wiki/Wichita,_Kansas",http://upload.wikimedia.org/wikipedia/en/8/81/Wichita_Kansas_seal.png
